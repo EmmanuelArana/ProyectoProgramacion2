@@ -6,7 +6,7 @@ version 1.0
 14 octubre 2025
 */
 package com.mycompany.proyectoprogramacion2;
-//modificación de prueba git
+//Prueba numero 2
 public class ProyectoProgramacion2 {
 
    public static void main(String[] args) {
